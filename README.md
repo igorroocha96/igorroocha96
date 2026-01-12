@@ -5,8 +5,6 @@
 
 - 🔭 Atualmente trabalho na **F1rst - Santander**
 
-- 👨‍💼 Fundador da empresa **Igor Rocha - Seu negócio online**
-
 - 👨‍💻 Todos meus projetos estão disponíveis em [https://github.com/igorroocha96](https://github.com/igorroocha96)
 
 - 💬 Habilidades **React, Angular, Swift**
